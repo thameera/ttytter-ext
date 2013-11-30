@@ -36,3 +36,23 @@ c4> (x3) <newsycombinator> How Linux 3.6 Nearly Broke PostgreSQL http://t.co/BhJ
 /pocket c4
 Added to Pocket!
 ```
+
+mark.pl
+-------
+
+Adds a separator line to your twitter feed. Useful to mark the location you last read, etc.
+
+```
+/m
+/mark
+```
+
+### Example:
+```
+/m
+
+---------- 11:25 ----------
+
+TTYtter>
+```
+
